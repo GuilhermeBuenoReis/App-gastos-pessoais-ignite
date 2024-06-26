@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "price": 140000,
+      "category": "Venda",
+      "createdAt": "2024-06-24T12:50:47"
+    },
+    {
+      "id": "2",
+      "description": "Humburgues",
+      "type": "outcome",
+      "price": 1400,
+      "category": "Alimentação",
+      "createdAt": "2024-06-23T12:50:47"
+    },
+    {
+      "id": "3",
+      "description": "Cinema",
+      "type": "outcome",
+      "price": 300,
+      "category": "Lazer",
+      "createdAt": "2024-06-21T12:50:47"
+    },
+    {
+      "id": "4",
+      "description": "Frella de app de finanças",
+      "type": "income",
+      "price": 10000,
+      "category": "Venda",
+      "createdAt": "2024-06-26T12:50:47"
+    },
+    {
+      "id": "d025",
+      "description": "Desenvolvimente de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-25T12:58:42.117Z"
+    },
+    {
+      "id": "e737",
+      "description": "Desenvolvimente de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-25T12:58:49.633Z"
+    },
+    {
+      "id": "965b",
+      "description": "Pastelão",
+      "price": 6,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-25T13:16:51.273Z"
+    },
+    {
+      "id": "6e07",
+      "description": "Iphone",
+      "price": 7500,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2024-06-25T13:20:59.647Z"
+    },
+    {
+      "id": "2a9f",
+      "description": "Spotify",
+      "price": 20,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-06-25T13:22:47.191Z"
+    },
+    {
+      "id": "7e20",
+      "description": "Saida com os brother",
+      "price": 100,
+      "category": "lazer",
+      "type": "outcome",
+      "createdAt": "2024-06-25T13:23:12.416Z"
+    },
+    {
+      "description": "Bmw",
+      "price": 400000,
+      "category": "Veiculo",
+      "type": "outcome",
+      "createdAt": "2024-06-26T12:18:03.477Z",
+      "id": "S85Voar"
+    },
+    {
+      "description": "Frellas ",
+      "price": 500000,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2024-06-26T12:18:27.905Z",
+      "id": "kkazU-r"
+    }
+  ]
+}
